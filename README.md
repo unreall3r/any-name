@@ -1,4 +1,4 @@
 # ![Фото Меня](/img/Cat.jpg)
 
-I am cat
-I am programming
+1. I am cat
+2. I am programming
